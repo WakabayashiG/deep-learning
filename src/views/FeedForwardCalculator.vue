@@ -48,7 +48,7 @@
             </div>
           </a-form>
         </a-card>
-3
+
         <br>
 
         <a-badge status="processing" text="Step 3" />
